@@ -21,4 +21,5 @@ for REPO in $REPOS; do
     fi
     cd ..
     rm -rf "$REPO"
-  fi
+  fi;
+ done 
