@@ -40,7 +40,7 @@ git clone [https://github.com/bret99/ghuge.git](https://github.com/bret99/ghuge.
 cd ghuge
 
 # Make the script executable
-chmod +x ghuge.sh
+chmod +x get_github_email.sh
 ```
 
 ### Execution
